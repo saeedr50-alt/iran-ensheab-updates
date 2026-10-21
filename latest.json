@@ -1,0 +1,14 @@
+{
+ "version": "2.52",
+ "notes": "ثبت تیکت پشتیبانی",
+ "files": {
+  "source": {
+   "url": "case_app_2.52.zip",
+   "sha256": "54e839725e718f6989f4da2343b1a1144a2cb8479a19644e3ac279d90e27a31b"
+  },
+  "windows": {
+   "url": "IranEnsheab_Windows_2.52.zip",
+   "sha256": "8148f0fc1c89492f43a8f87917ba8b39f2aaf7dcf9765e99823c25abf9db8674"
+  }
+ }
+}
